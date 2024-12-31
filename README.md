@@ -68,7 +68,9 @@ Crypto-js
 Azure Blob Storage
 Flask
 Hugging Face Transformers
+
 # Schema Diagram
+![Schema Diagram](https://github.com/user-attachments/assets/65c03d0b-0ba5-434a-9984-8d96255d1d77)
 
 
 # Getting Started
@@ -78,7 +80,7 @@ Before running the application, make sure you have the following installed:
 Node.js
 MongoDB or MongoDB Atlas account
 
-Installation
+# Installation
 Clone the repository
 git clone https://github.com/Lakshmideepika10/SocialEcho-An-automated-content-moderation-system.git
 Go to the project directory and install dependencies for both the client and server
@@ -93,7 +95,7 @@ npm start
 Start the client
 cd client
 npm start
-Configuration
+# Configuration
 Run the admin_tool.sh script from the server directory with permissions for executing the script. This script is used for configuring the admin account, creating the initial communities, and other settings.
 
 ./admin_tool.sh
